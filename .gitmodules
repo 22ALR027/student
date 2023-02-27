@@ -1,3 +1,6 @@
 [submodule "oswdlab"]
 	path = oswdlab
 	url = https://github.com/22ALR027/oswdlab.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
